@@ -1,3 +1,3 @@
 ### Demo
 
-https://code-sync.codersgyan.com/
+https://zitacode.herokuapp.com/
